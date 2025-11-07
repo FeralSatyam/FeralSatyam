@@ -36,20 +36,6 @@ Currently learning:
 - 🟢 **GreenRoute** — YOLO-based automated traffic system  
 - 💻 **Rain Prediction AI Model** — Weather predicting Model  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=FeralSatyam&repo=GreenRoute&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=FeralSatyam&repo=Rain-Prediction-AI&theme=tokyonight" />
-</p>
-
----
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FeralSatyam&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FeralSatyam&theme=tokyonight" height="165"/>
-</p>
-
----
 
 ### 📫 Reach Me
 - [LinkedIn](https://www.linkedin.com/in/satyam-rana-896112292/)  
