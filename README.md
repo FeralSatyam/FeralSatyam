@@ -1,3 +1,6 @@
+<!-- Banner -->
+<img src="https://raw.githubusercontent.com/FeralSatyam/FeralSatyam/main/assets/banner.gif" alt="banner" width="100%"/>
+
 # 👋 Hey, I'm Satyam Rana  
 
 🎯 **Computer Science + AI Student**  
@@ -8,31 +11,54 @@
 
 ### ⚙️ What I’m Working On
 - Exploring **AI/ML** fundamentals through hands-on projects  
-- Building web apps with **Flask**, **YOLO**, and **Python**  
 - Experimenting with automation and smart systems  
+
+<p align="center">
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="400"/>
+</p>
 
 ---
 
 ### 🧠 What I Know
-`Python` • `C` • `HTML` • `CSS` • `JavaScript` • `Flask` • `OpenCV` • `YOLOv8`  
+`Python` • `C` • `HTML` • `CSS` • `JavaScript` • `NodeJs`  
 
 Currently learning:
 - `Java` and `Data Structures & Algorithms`
 - `AI/ML` model training & deployment
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FeralSatyam&layout=compact&theme=tokyonight"/>
+</p>
+
 ---
 
 ### 🧩 Featured Projects
 - 🟢 **GreenRoute** — YOLO-based automated traffic system  
-- 💻 **Game Mandir** — Online game store startup (Founder)  
-- ⚡ **RC Topup Nepal** — Game top-up platform  
+- 💻 **Rain Prediction AI Model** — Weather predicting Model  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=FeralSatyam&repo=GreenRoute&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=FeralSatyam&repo=Rain-Prediction-AI&theme=tokyonight" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=FeralSatyam&show_icons=true&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FeralSatyam&theme=tokyonight" height="165"/>
+</p>
 
 ---
 
 ### 📫 Reach Me
-- [LinkedIn](https://www.linkedin.com/in/satyamrana)  
-- [GitHub](https://github.com/satyamrana)  
+- [LinkedIn](https://www.linkedin.com/in/satyam-rana-896112292/)  
+- [GitHub](https://github.com/FeralSatyam)  
 
 ---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/FeralSatyam/FeralSatyam/main/assets/footer.gif" width="100%"/>
+</p>
 
 > “Keep it simple. Ship it fast. Learn from the breakage.”
