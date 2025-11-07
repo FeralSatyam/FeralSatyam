@@ -1,16 +1,38 @@
-## Hi there 👋
+# 👋 Hey, I'm Satyam Rana  
 
-<!--
-**FeralSatyam/FeralSatyam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **Computer Science + AI Student**  
+🚀 Building towards Artificial Intelligence, one project at a time  
+💡 Passionate about turning code into ideas that *actually work*  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ⚙️ What I’m Working On
+- Exploring **AI/ML** fundamentals through hands-on projects  
+- Building web apps with **Flask**, **YOLO**, and **Python**  
+- Experimenting with automation and smart systems  
+
+---
+
+### 🧠 What I Know
+`Python` • `C` • `HTML` • `CSS` • `JavaScript` • `Flask` • `OpenCV` • `YOLOv8`  
+
+Currently learning:
+- `Java` and `Data Structures & Algorithms`
+- `AI/ML` model training & deployment
+
+---
+
+### 🧩 Featured Projects
+- 🟢 **GreenRoute** — YOLO-based automated traffic system  
+- 💻 **Game Mandir** — Online game store startup (Founder)  
+- ⚡ **RC Topup Nepal** — Game top-up platform  
+
+---
+
+### 📫 Reach Me
+- [LinkedIn](https://www.linkedin.com/in/satyamrana)  
+- [GitHub](https://github.com/satyamrana)  
+
+---
+
+> “Keep it simple. Ship it fast. Learn from the breakage.”
