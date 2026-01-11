@@ -135,22 +135,6 @@ Check out my other projects including algorithm implementations, web application
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FeralSatyam&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=FeralSatyam&theme=tokyonight"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FeralSatyam&layout=compact&theme=tokyonight&langs_count=8"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FeralSatyam&theme=tokyo-night&hide_border=true" />
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 💼 Work Experience
 
@@ -188,14 +172,6 @@ I'm always excited to collaborate on innovative projects or discuss tech!
 ### 💭 Quote of the Day
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-### 🐍 Contribution Snake
-
-![Snake animation](https://raw.githubusercontent.com/FeralSatyam/FeralSatyam/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
 **⭐ From [FeralSatyam](https://github.com/FeralSatyam) with 💙**
