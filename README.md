@@ -173,9 +173,3 @@ I'm always excited to collaborate on innovative projects or discuss tech!
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-<div align="center">
-**⭐ From [FeralSatyam](https://github.com/FeralSatyam) with 💙**
-
-*"Keep it simple. Ship it fast. Learn from the breakage."*
-
-</div>
