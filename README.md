@@ -168,15 +168,6 @@ Check out my other projects including algorithm implementations, web application
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🏆 Achievements
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=FeralSatyam&theme=tokyonight&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 📫 Let's Connect!
 
@@ -207,13 +198,6 @@ I'm always excited to collaborate on innovative projects or discuss tech!
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
-
-### 👀 Profile Views
-
-![Visitor Count](https://profile-counter.glitch.me/FeralSatyam/count.svg)
-
-<br>
-
 **⭐ From [FeralSatyam](https://github.com/FeralSatyam) with 💙**
 
 *"Keep it simple. Ship it fast. Learn from the breakage."*
